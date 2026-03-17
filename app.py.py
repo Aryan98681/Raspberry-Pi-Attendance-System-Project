@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ATTENDANCE SYSTEM - FLASK WEB INTERFACE
-
+|| Author: Aryan G. ||
 This file displays attendance records in a web browser.
 Shows a monthly calendar view with user attendance data.
 Users can view different months/years via URL parameters.
