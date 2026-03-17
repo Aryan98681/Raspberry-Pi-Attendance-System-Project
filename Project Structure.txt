@@ -6,3 +6,6 @@ attendance_system/
 ├── templates/
 │   └── attendance.html    # Web interface template
 └── help.txt              # User guide
+
+
+ || Author: Aryan G. ||
