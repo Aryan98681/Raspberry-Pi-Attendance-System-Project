@@ -16,3 +16,4 @@ Same visual design: Bootstrap CSS maintained
 
 
 -The system now runs entirely in Python while providing exactly the same functionality as the original PHP version-
+ || Author: Aryan G. ||
