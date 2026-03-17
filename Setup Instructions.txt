@@ -22,3 +22,6 @@ bash
 ./manage_attendance.sh add_user "John Doe"
 ./manage_attendance.sh check 1
 ./manage_attendance.sh report
+
+
+|| Author: Aryan G. ||
