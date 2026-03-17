@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # ATTENDANCE SYSTEM - MASTER CONTROL SCRIPT
-#
+#|| Author: Aryan G. ||
 # This script provides a simple command-line interface for the attendance system.
 # It acts as a wrapper for the Python manager script with easy-to-remember commands.
 #
