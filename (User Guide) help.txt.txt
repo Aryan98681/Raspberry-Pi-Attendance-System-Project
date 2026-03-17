@@ -35,3 +35,4 @@ TROUBLESHOOTING:
 - Install dependencies: pip3 install -r requirements.txt
 - Check database connection in attendance_manager.py
 - Ensure MySQL is running on Raspberry Pi
+ || Author: Aryan G. ||
